@@ -21,7 +21,7 @@ Regression-diff eval harness for tool-use agents. YAML suites, self-contained JS
 Ingests your past agent sessions into a local SQLite corpus and reads your project context files, then asks the clarifying questions that ate iteration cycles the last time you sent a vague prompt.
 
 **[ArchTrack](https://github.com/maximizeGPT/Archtrack)** (TypeScript)
-Open-source employee desktop tracker and admin dashboard for small businesses. Real-time activity, role-aware productivity scoring, multi-tenant. Live at [archtrack.live](https://archtrack.live).
+Open-source employee desktop tracker and admin dashboard for small businesses. Real-time activity, role-aware productivity scoring, multi-tenant. Self-hosts in about two minutes.
 
 ## What I'm working on now
 
